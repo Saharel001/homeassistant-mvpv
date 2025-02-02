@@ -29,7 +29,7 @@ SENSOR_TYPES = {
     "p9sversion": ["Power Supply Version Acthor 9", None, "", "data"],
     "screen_mode_flag": ["Screen Mode", None, "", "data"],
     "status": ["Status", None, "", "data"],
-    "power": ["Power", POWER_WATT, "mdi:flash", "data"],
+    "power": ["Power", POWER_WATT, "", "data"],
     "power_elwa2": ["Power ELWA-2", POWER_WATT, "", "data"],
     "power_solar": ["Power Solar ELWA-2", POWER_WATT, "", "data"],
     "power_grid": ["Power Grid ELWA-2", POWER_WATT, "", "data"],
